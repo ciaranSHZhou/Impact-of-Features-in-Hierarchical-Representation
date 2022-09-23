@@ -1,0 +1,5 @@
+main.m: run this file section by section to generate different MDS graphs.
+
+excel files folder: contains all of the data we collected in excel form; excel2mat.m reads in excel files, in workspace, "labs" represents the all the labels, and "s" represents the similarity/distance matrix. We manually saved those two variables for every excel file to get all our mat files.
+
+original data folder: contains the original Michael Lee's and Leuven's data; convert_leuven.m convert the AnimalxFeature matrix to distance matrix.
